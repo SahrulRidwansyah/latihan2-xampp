@@ -125,11 +125,14 @@ create database latihan2
 ```
 ![waduh 2](https://user-images.githubusercontent.com/115526901/230840896-aac0e001-ab82-4054-b671-67d168123a5c.png)
 
+
 * membuat table 
 ```
 create biodata (nama varchar (15), alamat text)
 ```
 ![waduh 1](https://user-images.githubusercontent.com/115526901/230841347-bec1f074-0019-4927-8f1c-9ecd4847815d.png)
+
+
 
 * menambah kolom 
 ```
@@ -137,20 +140,34 @@ alter table biodata add column keterangan text after alamat;
 ```
 ![waduh 3](https://user-images.githubusercontent.com/115526901/230841626-1af278d1-6209-4598-8ef3-6379e71e519f.png)
 
+
+
+
 * menambah kolom diawal
 ```
 alter table biodata add column id int first;
 ```
 ![waduh 4](https://user-images.githubusercontent.com/115526901/230842264-9beff864-bd36-4e84-849b-205aa080466f.png)
  
+ 
+ 
+ 
 * mengubah nama kolom 
 ![waduh 7](https://user-images.githubusercontent.com/115526901/230842738-0e40971a-1a62-4888-b5a1-378606e5f80d.png)
+
+
 
 * mengubah tipe data 
 ![waduh 6](https://user-images.githubusercontent.com/115526901/230842942-9441ea1b-69e3-4620-86ff-30af098b6cfe.png)
 
+
+
+
 * menghapus kolom 
 ![waduh 9](https://user-images.githubusercontent.com/115526901/230843101-671efd9d-edbd-45fa-bcba-476c513db124.png)
+
+
+
 
 2. apa maksud dari int(11)?
 int(11) adalah nama tipe datanya yaitu integer dan memiliki panjang 11 karakter
