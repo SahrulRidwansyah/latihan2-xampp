@@ -22,3 +22,4 @@ lalu, setelah kita membuat database selanjutnya kita masuk kedalam database ters
 use latihan2;
 ```
 
+![gambar](New Folder/waduh 1.png)
